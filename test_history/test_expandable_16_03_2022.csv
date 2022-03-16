@@ -1,0 +1,29 @@
+Passed,Browser,Execution time,Error,Filename,Line,Function,Error code
+0,chrome,5.3,AssertionError,C:\Users\Liam\PycharmProjects\automation-test\test_expandable.py,41,test_scenario,assert celtra_logo.is_displayed()  # Add a not in front
+0,firefox,4.81,AssertionError,C:\Users\Liam\PycharmProjects\automation-test\test_expandable.py,41,test_scenario,assert celtra_logo.is_displayed()  # Add a not in front
+1,chrome,5.36,,,,,
+1,firefox,4.86,,,,,
+1,chrome,5.25,,,,,
+1,firefox,5.09,,,,,
+1,chrome,5.38,,,,,
+1,firefox,5.06,,,,,
+1,chrome,5.31,,,,,
+1,firefox,5.13,,,,,
+1,chrome,5.43,,,,,
+1,firefox,4.92,,,,,
+1,chrome,5.2,,,,,
+1,firefox,4.99,,,,,
+1,chrome,5.39,,,,,
+1,firefox,4.91,,,,,
+1,chrome,5.52,,,,,
+1,firefox,5.12,,,,,
+1,chrome,5.3,,,,,
+1,firefox,4.96,,,,,
+1,chrome,5.53,,,,,
+1,firefox,4.95,,,,,
+0,chrome,3.83,AssertionError,C:\Users\Liam\PycharmProjects\automation-test\test_expandable.py,43,test_scenario,"assert modal_div_element.is_displayed(), (modal_div_element,)"
+0,firefox,3.18,AssertionError,C:\Users\Liam\PycharmProjects\automation-test\test_expandable.py,43,test_scenario,"assert modal_div_element.is_displayed(), (modal_div_element,)"
+1,chrome,5.45,,,,,
+1,firefox,5.11,,,,,
+1,chrome,5.25,,,,,
+1,firefox,5.21,,,,,
