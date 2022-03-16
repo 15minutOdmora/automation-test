@@ -16,9 +16,9 @@ own folder in the `drivers/` directory.
 
 #### A) Making script browser independent
 
-Module `usefull/driver.py` contains driver class implementations. The BaseDriver class holds methods 
-that are useful or just used a lot. Then there are two classes ChromeDriver and FirefoxDriver which inherit from the
-above mentioned BaseDriver and from their own Selenium Webdriver classes (Chrome and Firefox). Both classes have the same
+Module `usefull/driver.py` contains driver class implementations. The `BaseDriver` class holds methods 
+that are useful or just used a lot. Then there are two classes `ChromeDriver` and `FirefoxDriver` which inherit from the
+above mentioned `BaseDriver` and from their own `Selenium Webdriver` classes (`Chrome` and `Firefox`). Both classes have the same
 attributes and extend the parent drivers functionality making their usage more dynamic and user friendly. 
 
 #### B) Parallel execution
