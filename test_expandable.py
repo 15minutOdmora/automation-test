@@ -40,7 +40,7 @@ def test_scenario(driver):
     driver.switch_to_iframe_by_css_selector(selectors.modal_iframe)
     # Check if modal visible
     modal_div_element = driver.get_element_by_css_selector(selectors.modal_div)
-    assert modal_div_element.is_displayed(), (modal_div_element,)
+    assert modal_div_element.is_displayed()
 
     # Logo disappearance
     celtra_logo = driver.get_element_by_css_selector(selectors.celtra_logo)
